@@ -1,0 +1,10 @@
+{
+  
+  "Token": "entertokenhere",
+  "originChannel": channelIDToWatch,
+  "sendChannel": channelIDToSendTo,
+  "authorID": userIDToWatchFor
+  
+  
+  
+}
